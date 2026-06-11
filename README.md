@@ -9,7 +9,7 @@ BPM, energy, danceability, valence, and popularity range.
 ## Features
 - Natural language playlist generation via Claude SDK agent loop
 - Real-time Spotify API integration (search, recommendations, audio features)
-- Discogs collection import — match your vinyl/CD collection to Spotify
+- Discogs collection import, match your vinyl/CD collection to Spotify
 - Iterative refinement through multi-turn conversation
 - Audio feature targeting (BPM, energy, danceability, valence, acousticness)
 - Event-specific segment organization (ceremony, cocktail hour, first dance, party)
