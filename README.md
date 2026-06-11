@@ -3,7 +3,7 @@ Claude SDK-powered Spotify playlist generator with iterative refinement and Disc
 # Spotify Playlist Agent
 
 A production-style multi-tool Claude SDK agent that generates and iteratively 
-refines Spotify playlists based on natural language inputs — venue, vibe, artist, 
+refines Spotify playlists based on natural language inputs: venue, vibe, artist, 
 BPM, energy, danceability, valence, and popularity range.
 
 ## Features
